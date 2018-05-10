@@ -1,0 +1,13 @@
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe.config
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\bin\Debug\EmailCheck.pdb
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\bin\Debug\nunit.framework.dll
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\bin\Debug\WebDriver.dll
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\bin\Debug\nunit.framework.pdb
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\bin\Debug\nunit.framework.xml
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\bin\Debug\WebDriver.xml
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\obj\Debug\EmailCheck.csprojResolveAssemblyReference.cache
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\obj\Debug\EmailCheck.csproj.CoreCompileInputs.cache
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\obj\Debug\EmailCheck.csproj.CopyComplete
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\obj\Debug\EmailCheck.exe
+C:\Users\preetisaxena\source\repos\EmailCheck\EmailCheck\obj\Debug\EmailCheck.pdb
